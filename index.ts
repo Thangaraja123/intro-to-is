@@ -1,6 +1,6 @@
-    const num1 : Number = 23;
+    const num1 : Number = 35;
 
-    const num2 : Number = 34;
+    const num2 : Number = 45;
 
 
 
